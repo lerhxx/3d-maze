@@ -1,1 +1,1 @@
-# [3d-maze](https://lerhxx.github.io/x_x/)
+# [3d-maze](https://lerhxx.github.io/3d-maze/)
